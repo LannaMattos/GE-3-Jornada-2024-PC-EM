@@ -9,10 +9,8 @@ section{
     display: flex;
     justify-content: center;
 }
-div{
-    margin-right: 40px;
-    margin-left: 40px;
-}
+
+
 .chamada-texto{
     margin-right: 30%;
 }
