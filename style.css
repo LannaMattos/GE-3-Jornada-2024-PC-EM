@@ -1,6 +1,7 @@
 body{ /* cor do body*/
     color: white;
     background-color: black;
+    margin-bottom: 20px;
 }
 section{
     background-color: rgb(13, 46, 3);
