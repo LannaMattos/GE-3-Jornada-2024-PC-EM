@@ -10,7 +10,7 @@ section{
     justify-content: center;
 }
 
-
-.chamada-texto{
-    margin-right: 5%;
+div{
+    margin-right: 40px;
+    margin-left: 40px;
 }
