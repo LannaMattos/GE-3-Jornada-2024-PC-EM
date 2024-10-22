@@ -2,3 +2,8 @@ body{ /* cor do body*/
     color: white;
     background-color: black;
 }
+section{
+    background-color: rgb(161, 6, 6);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
