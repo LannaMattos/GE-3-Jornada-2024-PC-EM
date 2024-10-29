@@ -27,7 +27,8 @@ overflow-x: auto;
 gap: 10px;
 }
 h2{
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
