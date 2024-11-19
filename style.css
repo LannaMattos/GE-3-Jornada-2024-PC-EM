@@ -6,21 +6,15 @@ body{ /* cor do body*/
     border-color: darkgrey;
    
 }
-.chamada{
+section{
     background-color: rgb(13, 46, 3);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-
-}
-.categoria{
-    background-color: rgb(13, 46, 3);
     padding-left: 20px;
     padding-right: 20px;
 }
-
-
 div{
     margin-right: 40px;
     margin-left: 40px;
