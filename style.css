@@ -4,8 +4,8 @@ body{ /* cor do body*/
     padding-top: 20px;
     padding-bottom: 20px;
     border-color: darkgrey;
-
-   
+    font-family: "Bokor", system-ui;
+  
 }
 section{
     background-color: rgb(13, 46, 3);
