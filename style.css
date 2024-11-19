@@ -6,12 +6,15 @@ body{ /* cor do body*/
     border-color: darkgrey;
    
 }
-section{
+.chamada{
     background-color: rgb(13, 46, 3);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
+
+}
+.lista{
     padding-left: 20px;
     padding-right: 20px;
 }
